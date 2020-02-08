@@ -1,1 +1,1 @@
-# Hexagonal-Minesweeper
+# Hexagonal Minesweeper
